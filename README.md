@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
