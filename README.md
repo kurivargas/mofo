@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update the heatmap module code + docs (#7045)
