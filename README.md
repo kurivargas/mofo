@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
