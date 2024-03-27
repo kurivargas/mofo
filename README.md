@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update the heatmap module code + docs (#7045)
