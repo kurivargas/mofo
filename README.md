@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
